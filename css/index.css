@@ -1,0 +1,14 @@
+body{
+	box-sizing: border-box;
+}
+.navbar{
+	border-right: 2px solid;
+    height: 500px;
+    width: 15%;
+    margin-right: 0px;
+    display: inline-block;
+}
+.container{
+	float: right;
+    margin-right: 25%;
+}

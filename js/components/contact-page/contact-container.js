@@ -1,6 +1,6 @@
 var React = require('react');
 
-var CONTACTS = require('../contacts');
+var CONTACTS = require('../../contacts');
 var Contact = require('./contact');
 
 var ContactContainer = function(props) {
